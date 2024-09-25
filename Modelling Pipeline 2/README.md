@@ -2,16 +2,15 @@
 Capstone Project 
 
 **Main Pipeline:** <br>
-Capstone ML and Index script.ipynb <br>
+GeoLabandFeatImpIndices.ipynb <br>
 **Tasks Performed:** <br>
-•	Data Merging <br>
-•	statistical testing <br>
-•	Index Creation (PCA) <br>
-•	ML Models <br>
-•	County ranking based three indexes, using random forest Regressor for feature importance and Classification using kbinsdiscretizer (k Means Strategy) <br>
+•	Data Manipulation <br>
+•	EDA <br>
+•	LISA (Significance Testing of Spatial Autocorrelation, Cluster Labels Creation) <br>
+•	Modelling – Classification <br>
+•	Indices Creation (using Feature Importance) <br>
+•	Indices based Modelling – Classification <br>
+•	Testing/Experimentation <br>
+•	Regionalization <br>
 
-**Complimentary Notebooks/Codes:** <br>
-Prelim Data Modelling.ipynb <br>
-County Ranking based on indexes.ipynb <br>
-Capstone ML and Index script-Copy1.ipynb <br>
-ML_Classification.ipynb Author <br>
+
