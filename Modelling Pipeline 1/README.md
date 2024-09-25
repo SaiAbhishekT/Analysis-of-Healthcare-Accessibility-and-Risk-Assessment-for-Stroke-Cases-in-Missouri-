@@ -9,10 +9,10 @@ Capstone ML and Index script.ipynb // <br>
 •	statistical testing <br>
 •	Index Creation (PCA) <br>
 •	ML Models <br>
-•	County ranking based three indexes, using random forest Regressor for feature importance and Classification using kbinsdiscretizer (k Means Strategy) <be>
+•	County ranking based three indexes, using random forest Regressor for feature importance and Classification using kbinsdiscretizer (k Means Strategy) <br>
+<br>
 
-
-**Complimentary Notebooks/Codes:** <be>
+**Complimentary Notebooks/Codes:** <br>
 
 Prelim Data Modelling.ipynb // <br>
 County Ranking based on indexes.ipynb // <br>
