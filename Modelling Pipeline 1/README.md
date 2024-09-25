@@ -17,4 +17,4 @@ Capstone ML and Index script.ipynb // <br>
 Prelim Data Modelling.ipynb // <br>
 County Ranking based on indexes.ipynb // <br>
 Capstone ML and Index script-Copy1.ipynb // <br>
-ML_Classification.ipynb Author // <br>
+ML_Classification.ipynb // <br>
