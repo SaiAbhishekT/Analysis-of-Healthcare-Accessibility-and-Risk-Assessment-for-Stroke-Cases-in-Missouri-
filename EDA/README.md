@@ -9,5 +9,5 @@ Stroke EDA.ipynb (CDC Dataset)
 
 JenksandVis1.ipynb
 **Tasks Performed:** <br>
-•	Jenks Natural Break Algorithm to create New Group Labels
-•	Choropleth Maps
+•	Jenks Natural Break Algorithm to create New Group Labels <br>
+•	Choropleth Maps <br>
