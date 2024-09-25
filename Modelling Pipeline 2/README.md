@@ -1,8 +1,11 @@
 # Analysis-of-Healthcare-Accessibility-and-Risk-Assessment-for-Stroke-Cases-in-Missouri-
 Capstone Project 
 
+PS: The "GeoLabandFeatImpIndices.ipynb" file is in zip folder. Download and extract it to access the file.
+
 **Main Pipeline:** <br>
-GeoLabandFeatImpIndices.ipynb <br>
+
+GeoLabandFeatImpIndices.ipynb // <br>
 **Tasks Performed:** <br>
 •	Data Manipulation <br>
 •	EDA <br>
