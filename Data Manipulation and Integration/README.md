@@ -4,15 +4,15 @@ Capstone Project
 **Data Manipulation and Integration:** <br>
 
 
-DP02_data_2010-2022.ipynb (ACS Dataset) // <be>
+DP02_data_2010-2022.ipynb (ACS Dataset) // <br>
 **Tasks Performed:** <br>
 •	Data Manipulation <br>
 
-DP03_data_2010-2022.ipynb (ACS Dataset) // <be>
+DP03_data_2010-2022.ipynb (ACS Dataset) // <br>
 **Tasks Performed:** <br>
 •	Data Manipulation <br>
 
-CHR Database.ipynb // <be>
+CHR Database.ipynb // <br>
 **Tasks Performed:** <br>
 •	Data Manipulation <br>
 
